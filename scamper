@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inovasi Produk dengan Metode SCAMPER</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        h1, h2, h3 {
+            color: #0056b3;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Inovasi Produk dengan Metode SCAMPER</h1>
+        
+        <div class="section">
+            <h2>Pendahuluan</h2>
+            <p>Metode SCAMPER adalah teknik brainstorming yang membantu dalam menciptakan solusi kreatif dan inovatif untuk pengembangan produk atau jasa. SCAMPER merupakan singkatan dari tujuh elemen, yaitu Substitute (Mengganti), Combine (Menggabungkan), Adapt (Menyesuaikan), Modify (Memodifikasi), Put to another use (Menggunakan untuk kegunaan lain), Eliminate (Menghilangkan), dan Reverse (Membalikkan).</p>
+            <p>Produk yang akan dianalisis adalah <strong>botol minum pintar</strong> yang dilengkapi dengan sensor suhu dan notifikasi untuk mengingatkan pengguna agar minum air secara teratur.</p>
+        </div>
+
+        <div class="section">
+            <h2>Proses SCAMPER</h2>
+            <h3>Substitute (Mengganti)</h3>
+            <p>Mengganti material botol dari plastik menjadi stainless steel untuk menjaga suhu minuman lebih lama dan lebih ramah lingkungan.</p>
+
+            <h3>Combine (Menggabungkan)</h3>
+            <p>Menggabungkan fitur notifikasi hidrasi dengan sensor kesehatan yang dapat memonitor suhu tubuh pengguna dan menyarankan jumlah air yang harus diminum sesuai kondisi kesehatan.</p>
+
+            <h3>Adapt (Menyesuaikan)</h3>
+            <p>Menyesuaikan desain agar lebih ergonomis, sehingga nyaman digunakan oleh berbagai kelompok usia. Tambahkan juga tali atau handle agar lebih mudah dibawa.</p>
+
+            <h3>Modify (Memodifikasi)</h3>
+            <p>Memodifikasi kapasitas botol dari 500 ml menjadi 1 liter untuk mengakomodasi kebutuhan air harian yang lebih besar, serta menambah LED indikator untuk menunjukkan suhu minuman.</p>
+
+            <h3>Put to another use (Menggunakan untuk kegunaan lain)</h3>
+            <p>Botol ini dapat digunakan sebagai penghangat kopi atau teh dengan menggunakan teknologi pemanas di dalamnya.</p>
+
+            <h3>Eliminate (Menghilangkan)</h3>
+            <p>Menghilangkan komponen-komponen yang tidak penting seperti fitur musik yang tidak relevan dengan fungsi botol minum, sehingga harganya lebih terjangkau.</p>
+
+            <h3>Reverse (Membalikkan)</h3>
+            <p>Membalikkan konsep dengan memungkinkan botol tersebut dihubungkan dengan aplikasi kesehatan yang sudah ada seperti Google Fit atau Apple Health untuk integrasi data hidrasi.</p>
+        </div>
+
+        <div class="section">
+            <h2>Produk/Jasa Baru</h2>
+            <p>Hasil dari proses SCAMPER adalah sebuah botol minum pintar berbahan stainless steel dengan kapasitas 1 liter, dilengkapi dengan sensor suhu, monitor kesehatan, notifikasi hidrasi, dan kompatibilitas aplikasi kesehatan. Botol ini tidak hanya membantu pengguna untuk tetap terhidrasi tetapi juga memberikan insight mengenai kondisi kesehatan mereka berdasarkan data yang terhubung dengan aplikasi kesehatan.</p>
+        </div>
+
+        <div class="section">
+            <h2>Kesimpulan</h2>
+            <p>Metode SCAMPER adalah alat yang efektif dalam menciptakan produk inovatif dengan cara mengeksplorasi berbagai kemungkinan untuk memperbaiki produk atau jasa yang ada. Dengan menggunakan metode ini, botol minum pintar telah disempurnakan menjadi produk yang tidak hanya berfungsi sebagai alat hidrasi, tetapi juga sebagai alat pemantau kesehatan yang lebih canggih dan sesuai dengan kebutuhan pasar modern.</p>
+        </div>
+    </div>
+</body>
+</html>
